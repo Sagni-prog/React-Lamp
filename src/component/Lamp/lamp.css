@@ -1,0 +1,128 @@
+/* .lamp__container{
+   
+    width: 50vw;
+    height: 100Vh;
+    position: relative;
+}
+
+.the__lamp{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: -15%;
+    left: -8%;
+    
+} 
+
+.light__off{
+  opacity: 0;
+}
+
+.the__light{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: 5.5%;
+    left: -9%;
+    transition: all 5s;
+}
+
+.lamp{
+  
+    width: 150px;
+    height: 287px;
+      
+}
+.light{
+    
+    transform: scale(0.5);
+} */
+
+
+
+     /***********************************/
+     /*          lamp.css               */ 
+    /***********************************/
+
+                    .lamp__container{
+                
+                    width: 50vw;
+                    height: 100Vh;
+                    position: relative;
+                }
+                
+                .the__lamp{
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-start;
+                    width: 100%;
+                    height: 50%;
+                    position: absolute;
+                    top: -15%;
+                    left: -8%;
+                    
+                } 
+                
+                .light__off{
+                    opacity: 0;
+                    
+                }
+
+
+                .intensity__100{
+                    opacity: 1;
+                }
+                
+                .intensity__80{
+                    opacity: 0.8;
+                }
+                
+                .intensity__60{
+                    opacity: 0.6;
+                }
+                .intensity__40{
+                    opacity: 0.4;
+                }
+                
+                .intensity__20{
+                    opacity: 0.2;
+                }
+                .intensity__0{
+                    opacity: 0;
+                }
+                
+                
+                
+                .the__light{
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-start;
+                    width: 100%;
+                    height: 50%;
+                    position: absolute;
+                    top: 5.5%;
+                    left: -9%;
+                    
+                    
+                }
+                
+                .lamp{
+                    
+                    width: 150px;
+                    height: 287px;
+                        
+                }
+                .light{
+                    
+                    transform: scale(0.5);
+                }
+       /*                                 */ 
+      /***********************************/
+     /*          lamp.css               */ 
+    /***********************************/

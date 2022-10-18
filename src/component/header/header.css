@@ -1,0 +1,150 @@
+/* .nav{
+    width: 80%;
+    margin: 0 auto;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+  display: flex;
+  gap: 0;
+}
+.menu__img{
+   
+    align-self: center;
+    transform: scale(0.3);
+}
+.logo__img{
+    justify-self: flex-start;
+    transform: scale(0.5);
+    position: absolute;
+    left: 9%;
+    top: 0;
+    
+}
+
+.links a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    margin-right: 20px;
+
+}
+.toggle__off{
+    padding: 1px 25px;
+    background-color: rgb(24, 238, 227);
+    border-radius: 50px;
+    margin-left: 20px;
+    position: relative;
+   
+}
+
+
+.inside__left{
+    position: absolute;
+    top: 8%;
+    left: 7%;
+    content: '';
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background-color:rgb(209, 221, 224);
+}
+
+.toggle:hover i:after{
+    left: 7%;
+} */
+
+
+
+ /************************************/
+       /*         header css               */
+      /************************************/
+
+
+      .nav{
+        width: 80%;
+        margin: 0 auto;
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .logo{
+      display: flex;
+      gap: 0;
+    }
+    .menu__img{
+       
+        align-self: center;
+        transform: scale(0.3);
+    }
+    .logo__img{
+        justify-self: flex-start;
+        transform: scale(0.5);
+        position: absolute;
+        left: 9%;
+        top: 0;
+       
+    }
+    
+    .links a{
+        text-decoration: none;
+        color: #fff;
+        font-size: 18px;
+        margin-right: 20px;
+    
+    }
+    .toggle__off{
+        padding: 1px 25px;
+        background-color: rgb(24, 238, 227);
+        border-radius: 50px;
+        margin-left: 20px;
+        position: relative;
+        transition: all 4s;
+       
+    }
+
+    .inside__right{
+      position: absolute;
+      top: 8%;
+      left: 50%;
+      content: '';
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background-color: rgb(206, 201, 201);
+  }
+
+     .toggle__on{
+        padding: 1px 25px;
+        background-color: #fff;
+        border-radius: 50px;
+        margin-left: 20px;
+        position: relative;
+        transition: all 4s;
+       
+    } 
+
+  
+    
+    .inside__left{
+        position: absolute;
+        top: 8%;
+        left: 7%;
+        content: '';
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        background-color:rgb(209, 221, 224);
+    }
+    
+    .toggle:hover i:after{
+        left: 7%;
+    }
+
+    
+        /************************************/
+       /*         header css               */
+      /************************************/

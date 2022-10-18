@@ -1,0 +1,132 @@
+// function App() {
+
+//   const className = ''
+//   let classIntensity = ''
+//   const [isOn,setIsOn] = useState(true)
+//   const [intensity,setIntensity] = useState(5)
+
+// const intensityy = 'hey'
+//   const increaseLight = () => {
+//     if(intensity < 5){
+//       setIntensity(intensity + 1)
+//     }
+//     console.log({intensity})
+//   }
+
+//   const reduceLight = () => {
+//     if(intensity > 0){
+//       setIntensity(intensity - 1)
+//     }
+//     console.log({intensity})
+//   }
+
+//   const  handleToggle = () => {
+//     setIsOn(!isOn)
+//     console.log('toggle button clicked',{isOn})
+//   }
+
+//    const myClass = () => {
+//       return classIntensity = 
+//             intensity === 5 ? 'intensity__100' :
+//             intensity === 4 ? 'intensity__80' :
+//             intensity === 3 ? 'intensity__60' :
+//             intensity === 2 ? 'intensity__40' :
+//             intensity === 1 ? 'intensity__20' :
+//                                'intensity__0' 
+
+                                                    
+//        }
+  
+//   return (
+//     // header start
+//     <div className='container'>
+//        {/* <Header /> */}
+//        <div className='nav'>
+//         <div className ='logo'>
+//             <img src= {Menu} className = 'menu__img' alt = 'menu'/>
+//             <img src={logo} className='logo__img' alt='logo' />
+//         </div>
+//         <div className='links'>
+//             <a href='#'>Latest</a>
+//             <a href='#'>Modern</a>
+//             <a href='#'>Contemporary</a>
+//             <a href='#'>Affordable</a>
+//             <a href='#' onClick={handleToggle} className = {isOn ? 'toggle__on' : 'toggle__off'}>
+//                 <i className = {isOn ? 'inside__left' : 'inside__right'}></i>
+//             </a>
+//             {/* <button onClick={increaseLight}>+</button>
+//             <button onClick={reduceLight}>-</button> */}
+//         </div>
+
+//     </div>
+
+//     {/* header end */}
+
+//     <div className="grid__container">
+
+//       {/* lamp */}
+    
+
+   
+    // <div className='lamp__container'>
+      
+    //  <div className='the__lamp'>
+    //    <img src= {lamp} className='lamp' alt='the image of lamp hangigng on ceiling'/>
+    //    </div>
+    //    <div className={myClass() + ' the__light'}>
+    //    {/* {   className = } */}
+    //    <img src= {light} className= {isOn ? 'light' : 'light__off'} alt='the light'/>
+    //    </div>
+       
+       
+    //  </div>
+
+//         <Text 
+//             intensity = {intensity}
+//             increaseLight = {increaseLight}
+//             reduceLight = {reduceLight}
+//         />
+
+//     </div>
+//     </div>
+//   );
+// }
+
+
+
+//   const className = ''
+//   let classIntensity = ''
+//   const [isOn,setIsOn] = useState(true)
+//   const [intensity,setIntensity] = useState(5)
+
+// const intensityy = 'hey'
+//   const increaseLight = () => {
+//     if(intensity < 5){
+//       setIntensity(intensity + 1)
+//     }
+//     console.log({intensity})
+//   }
+
+//   const reduceLight = () => {
+//     if(intensity > 0){
+//       setIntensity(intensity - 1)
+//     }
+//     console.log({intensity})
+//   }
+
+//   const  handleToggle = () => {
+//     setIsOn(!isOn)
+//     console.log('toggle button clicked',{isOn})
+//   }
+
+//    const myClass = () => {
+//       return classIntensity = 
+//             intensity === 5 ? 'intensity__100' :
+//             intensity === 4 ? 'intensity__80' :
+//             intensity === 3 ? 'intensity__60' :
+//             intensity === 2 ? 'intensity__40' :
+//             intensity === 1 ? 'intensity__20' :
+//                                'intensity__0' 
+
+                                                    
+//        }
